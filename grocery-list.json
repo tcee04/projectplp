@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Apple",
+        "price": 1.99,
+        "image": "images2/appple.jpg"
+    },
+    {
+        "name": "Banana",
+        "price": 0.99,
+        "image": "images2/banana.jpg"
+    },
+    {
+        "name": "Carrot",
+        "price": 1.49,
+        "image": "images2/carrot.jpg"
+    },
+    {
+        "name": "Broccoli",
+        "price": 2.50,
+        "image": "images2/brocolli.jpg"
+    },
+    {
+        "name": "Strawberries",
+        "price": 3.00,
+        "image": "images2/strawberries.jpg"
+    },
+    {
+        "name": "Milk",
+        "price": 1.20,
+        "image": "images2/milk.jpg"
+    },
+    {
+        "name": "Bread",
+        "price": 1.80,
+        "image": "images2/bread.jpg"
+    }
+]
